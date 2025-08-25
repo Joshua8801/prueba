@@ -1,0 +1,11 @@
+# Carpetas de Eclipse
+.settings/
+bin/
+target/
+
+# Archivos de configuración
+.project
+.classpath
+
+# Archivos de logs
+*.log
