@@ -1,8 +1,5 @@
 package arbolesbinarios;
 
-import java.util.Queue;
-import java.util.LinkedList;
-
 class LinkedBST<E extends Comparable<E>> {
 
     private Nodo<E> raiz;
